@@ -1,0 +1,219 @@
+@font-face{
+
+    font-family: f1;
+    src: url('abel.ttf');
+}
+
+@font-face{
+
+    font-family: f2;
+    src: url('abg.ttf');
+
+
+}
+div.home{
+    background-color: #C3D1C4;
+}
+.navbar{
+
+    background-color: #233F31;
+    padding: 70px;
+    list-style: none;
+    font-size: 50px;
+  
+    
+}
+.home h1{
+    color: #4D2E20;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.home img{
+    height: 500px;
+    width: 1500px;
+}
+
+.navbar a{
+
+   
+    margin: auto;
+    font-family: f2;
+    font-size: 20px;
+    text-decoration: none;
+    color: #C3D1C4;
+    padding: 10px;
+
+}
+
+.navbar a:hover{
+
+    color: #7a7939;
+
+}
+
+h2{
+    
+    padding-top: 40px;
+    font-family: f2;
+    color: #53574C;
+    font-weight:bolder;
+    font-style: italic;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+label{
+
+    font-family: f1;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+
+
+
+
+
+button{
+
+    background-color:  #146473;
+    color: wheat;
+    float: center;
+    padding
+    
+    
+
+}
+
+button:hover{
+
+    background-color: wheat;
+    color: #146473;
+}
+
+button.regbtn{
+
+    border-radius: 10px;
+    
+
+}
+
+button.cancelbtn{
+
+    border-radius: 10px;
+
+}
+
+button.loginbtn{
+
+    border-radius: 10px;
+
+}
+
+input::placeholder{
+
+    font-family: f1;
+    
+    
+}
+
+
+div.col-md-3{
+
+    border: 3px double teal;
+    padding-left: 20px;
+
+
+
+}
+
+div.form-group-two{
+
+    padding-left: 40px;
+    padding-right: 40px;
+
+    
+}
+
+h1{
+
+    font-family: f2;
+    font-size: 10px;
+    color: teal;
+    padding-top: 20px;
+
+
+}
+table {
+    margin: auto;
+    
+}
+
+.container td img{
+    width: 250px;
+    length: 10px;
+}
+.container td h3{
+    color: #696657;
+    font-size: 0.9em;
+    padding-bottom: 20px;
+}
+.footer h5{
+    background-color:#233F31 ;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 15px 15px;
+   
+    
+	
+}
+div .News {
+
+    background-color: #C3D1C4;
+
+}
+.News img{
+    height: 300px;
+    width: 1300px;
+    
+}
+.News h1{
+    color:#69663E;
+}
+div .members{
+    background-color: #C3D1C4;
+
+}
+.members img{
+    height: 250px;
+    width: 900px;
+
+}
+.members h1{
+    color: #146473;
+    font-size: 1.8em;
+}
+.container h1{
+    font-size: 5em;
+    letter-spacing: 0.2em;
+    font-style: oblique;
+}
+.container td img{
+    width: 250px;
+    length: 20px;
+   border-radius: 1.%;
+    
+
+}
+.container td {
+    letter-spacing: 0.2em;
+    font-weight: bolder;
+    color: #213B40;
+}
+.News .container td {
+    letter-spacing: 0.1;
+}
+
+
